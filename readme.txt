@@ -1,0 +1,1 @@
+This project involves examining the WSU Cougars 2023 - 2024 season mens basketball game history to see what kinds of interesting trends there are. I also want to compare their stats (they are currently ranked 2nd in the pac 12, 40th in the NCAA as of 04/07/2024) to see how they stack up to the other teams.
